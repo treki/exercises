@@ -1,10 +1,8 @@
-header, main, footer { 
-min-width: 855px;
-}
 body {
 background: #f9e933;
 }
-header, main, footer { min-width: 855px;
+header, main, footer { 
+	min-width: 855px;
 }
 header {
 background: white;
